@@ -35,8 +35,8 @@
 * Terminator (1 and 2)
 * Stand By Me
 * Adam Sandler movies (TBD - need to fill this in)
-** Happy Gilmore
-** The Waterboy
+    * Happy Gilmore
+    * The Waterboy
 * Zombieland
 * Stepbrothers
 * Ed Wood
