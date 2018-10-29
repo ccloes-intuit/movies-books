@@ -60,8 +60,8 @@
 * Looper
 * Braveheart
 * Gladiator
-* The Last Samurai
-* Out of Africa (for the music score)
-* Lawless
+* The Last Samurai - https://www.imdb.com/title/tt0325710/
+* Out of Africa (for the music score) - https://www.imdb.com/title/tt0089755/
+* Lawless - https://www.imdb.com/title/tt1212450/
 
 
