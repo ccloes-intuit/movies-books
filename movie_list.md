@@ -58,3 +58,5 @@
 * Looper
 * Braveheart
 * Gladiator
+* The Last Samurai
+* Out of Africa (for the music score)
