@@ -58,3 +58,42 @@
 * Looper
 * Braveheart
 * Gladiator
+
+Honorable mentions:
+* Glen Gary Glen Ross
+* Laputa: Castels in the Sky
+* Grave of the Flies
+* Spirited Away
+* My Neighbor Totoro
+* District 9
+* Akira
+* The 39 Steps
+* Arrival
+* The Man Who Would Be King
+* Ghost in the Shell (1995) 
+* Hot Fuzz Twice in a Row
+* Women on the Verge of a Nervous Breakdown
+* Adaptation
+* The FP
+* Barry Lyndon
+* Hard Boiled
+* Ford vs Ferrari
+* Near Dark
+* Badlands (Terrence Malick)
+* The Originals
+* Kiss Kiss Bang Bang (2005)
+* Vanishing Point (1971)
+* Thief (1981)
+* The Long Goodbye (1973)
+* The Dogs of War (1980)
+* Juggernaut (1974) 
+* Tucker and Dale vs Evil
+* Commando (1985)
+* The City of Lost Children (1995)
+* ExistenZ (1999)
+* Westworld (1973)
+* Code 8
+* Death Race 2000 (1975)
+* Interstellar
+* Blade Runner movies 
+* Children of Men (2008)
