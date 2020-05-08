@@ -60,6 +60,8 @@
 * Gladiator
 
 ## Honorable mentions:
+* These are second tier movies and tv shows which can get you through quarantine times.
+
 * Glen Gary Glen Ross
 * Laputa: Castels in the Sky
 * Grave of the Flies
