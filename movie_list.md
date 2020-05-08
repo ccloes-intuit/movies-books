@@ -59,7 +59,7 @@
 * Braveheart
 * Gladiator
 
-## Honorable mentions:
+# Honorable mentions:
 * These are second tier movies and tv shows which can get you through quarantine times.
 
 * Glen Gary Glen Ross
