@@ -59,7 +59,7 @@
 * Braveheart
 * Gladiator
 
-Honorable mentions:
+## Honorable mentions:
 * Glen Gary Glen Ross
 * Laputa: Castels in the Sky
 * Grave of the Flies
