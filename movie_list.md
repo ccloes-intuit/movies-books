@@ -1,6 +1,7 @@
 # First list
 *This is not in any particular order. No, there will never be a particular order.*
 
+## Must see movies
 * Pulp Fiction
 * Matrix Series
 * Star Wars series (modified machete order: IV, V, I, II, III, VI; credit: http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/)
@@ -59,9 +60,7 @@
 * Braveheart
 * Gladiator
 
-# Honorable mentions:
-* These are second tier movies and tv shows which can get you through quarantine times.
-
+## Honorable mentions:
 * Glen Gary Glen Ross
 * Laputa: Castels in the Sky
 * Grave of the Flies
